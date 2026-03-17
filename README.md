@@ -1,10 +1,10 @@
 # Nassau Candy Profitability Analysis
 ## Product Line Profitability & Margin Performance Analysis
-# Project Overview
+## Project Overview
 
 This project analyzes the profitability structure of Nassau Candy’s product portfolio using data analytics and business intelligence tools. The goal is to identify high-performing products, margin risks, and profit concentration patterns to support data-driven decision-making.
 
-# Objectives
+## Objectives
 
 * Evaluate product-level profitability and margins
 
@@ -16,7 +16,7 @@ This project analyzes the profitability structure of Nassau Candy’s product po
 
 * Build interactive dashboards for business insights
 
-# Key Insights
+## Key Insights
 
 * $141K+ total sales analyzed across 15 product lines
 
@@ -28,7 +28,7 @@ This project analyzes the profitability structure of Nassau Candy’s product po
 
 * Revenue does not always correlate with profitability
 
-# Tools & Technologies
+## Tools & Technologies
 
 * Python (Pandas, NumPy)
 
@@ -40,7 +40,7 @@ This project analyzes the profitability structure of Nassau Candy’s product po
 
 * Excel
   
-# Analysis Performed
+## Analysis Performed
 
 * Profitability Metrics Calculation
 
@@ -62,7 +62,7 @@ This project analyzes the profitability structure of Nassau Candy’s product po
 
 * Pareto (80/20) analysis
 
-# Dashboard Features
+## Dashboard Features
 
 * Product Profitability Overview
 
@@ -82,7 +82,7 @@ Run the interactive dashboard locally:
 
 streamlit run streamlit_app/app1.py
 
-# Business Impact
+## Business Impact
 
 * Helps identify high-profit vs low-profit products
 
@@ -92,6 +92,6 @@ streamlit run streamlit_app/app1.py
 
 * Improves margin monitoring and risk detection
 
-# Conclusion
+## Conclusion
 
 The analysis reveals that profitability is highly concentrated, with a small subset of products driving the majority of profit. The project demonstrates how data analytics and visualization tools can improve decision-making in distribution businesses.
