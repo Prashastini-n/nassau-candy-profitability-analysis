@@ -1,5 +1,5 @@
-## Nassau Candy Profitability Analysis
-# Product Line Profitability & Margin Performance Analysis
+# Nassau Candy Profitability Analysis
+## Product Line Profitability & Margin Performance Analysis
 # Project Overview
 
 This project analyzes the profitability structure of Nassau Candy’s product portfolio using data analytics and business intelligence tools. The goal is to identify high-performing products, margin risks, and profit concentration patterns to support data-driven decision-making.
