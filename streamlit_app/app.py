@@ -22,7 +22,13 @@ st.markdown("---")
 # LOAD DATA
 # ---------------------------------------------------
 
-df = pd.read_csv(r"../data/cleaned_data.csv")
+from pathlib import Path
+import pandas as pd
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+csv_path = BASE_DIR / "data" / "cleaned_data.csv"
+
+df = pd.read_csv(csv_path)
 
 # Create calculated metrics
 df["Margin"] = (df["Gross Profit"] / df["Sales"]) * 100
