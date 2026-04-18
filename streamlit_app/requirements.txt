@@ -1,8 +1,5 @@
 streamlit
 pandas
 plotly
-numpy
-matplotlib
-seaborn
-openpyxl
 streamlit-option-menu
+streamlit-extras
