@@ -22,7 +22,7 @@ st.markdown("---")
 # LOAD DATA
 # ---------------------------------------------------
 
-df = pd.read_csv(r"C:\Users\Prashastini N\Desktop\nassau-candy-profitability-analysis\data\cleaned_data.csv")
+df = pd.read_csv(r"data\cleaned_data.csv")
 
 # Create calculated metrics
 df["Margin"] = (df["Gross Profit"] / df["Sales"]) * 100
